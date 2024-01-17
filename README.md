@@ -4,7 +4,7 @@
 ### init
 ```bash
 pip install django
-django-admin startproject
+django-admin startproject $project_name
 ```
 
 ## Getting started
